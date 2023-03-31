@@ -1,1 +1,1 @@
-﻿# Imlementação de buscas IA
+﻿# Implementações de algoritimos de inteligência artificial
